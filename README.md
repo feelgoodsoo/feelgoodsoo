@@ -26,13 +26,12 @@
     I'm pilsu Choi, a developer who wants to make a product that helps the world
 </p>
 
-<br>
 
  <div align="center">
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelgoodsoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 
-<br>
+
 <p align="center">
     <Strong>⚒️Interested in⚒️</Strong><br>
 </p>
