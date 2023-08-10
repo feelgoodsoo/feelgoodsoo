@@ -29,14 +29,10 @@
     <Strong>⚒️Interested in⚒️</Strong><br>
 </p>
 
-<br>
-
 <p align="center" display="inline-block">
-     
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 </p>
 <!--
 **feelgoodsoo/feelgoodsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
