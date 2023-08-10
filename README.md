@@ -13,6 +13,7 @@
   
 </div>
 
+<br>
 <p align="center">
     반갑습니다👐 <br>
     세상에 도움이 되는 제품을 만들고 싶은<br>
@@ -22,11 +23,13 @@
     I'm Choi pilsu, a developer who wants to make a product that helps the world
 </p>
 
- <br>
+<br>
  
 <p align="center">
     <Strong>⚒️Interested in⚒️</Strong><br>
 </p>
+
+<br>
 
 <p align="center" display="inline-block">
      
