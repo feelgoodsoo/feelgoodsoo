@@ -6,7 +6,7 @@
 
   </div>
   
-  <div style="display:flex">
+  <div style="display:flex" align="center">
 
   <!--
   [![pilsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelgoodsoo)](https://github.com/anuraghazra/github-readme-stats)
