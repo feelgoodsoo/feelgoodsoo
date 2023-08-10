@@ -30,9 +30,14 @@
 </p>
 
 <p align="center" display="inline-block">
+  
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=NGINX&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+    <img src="https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=ElasticStack&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </p>
 <!--
 **feelgoodsoo/feelgoodsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
